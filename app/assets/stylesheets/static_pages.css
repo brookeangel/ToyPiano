@@ -1,0 +1,20 @@
+.keyboard {
+  width: calc(75px * 8)
+}
+
+.key {
+  box-sizing: border-box;
+  width: 75px;
+  height: 200px;
+  float: left;
+  border: 1px solid black;
+}
+
+.recorder div {
+  box-sizing: border-box;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  color: white;
+  float: left;
+}
